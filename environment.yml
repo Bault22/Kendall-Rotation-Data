@@ -10,7 +10,6 @@ dependencies:
   - matplotlib
   - scikit-learn
   - numpy
-  - lifeline
   - r-dplyr
   - r-ggplot2
   - r-reshape2
